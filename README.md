@@ -1,4 +1,4 @@
-# Endpoint Position Prediction on Images using Convolutional Neural Networks
+# Predicting the coordinates of the start and end of a line.
 
 ## Project Description
 This project involves the use of convolutional neural networks (CNNs) to detect the coordinates of the starting and ending points of lines in images. We train a CNN model to generate heat maps indicating the positions of these points, and then process these heat maps to obtain the exact coordinates of the points.
